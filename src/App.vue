@@ -195,7 +195,7 @@ html{
 ====
 
 * [GitHub](http://github.com/wmwwmv),参与并创建过多个开源项目.
-* [技术博客](http://www.liangshichao.com/)
+* [技术博客](http://www.zhiiker.com/)
 * [CSDN](https://my.csdn.net/wuye),活跃在博客和论坛.
 
 兴趣爱好及个人评价
